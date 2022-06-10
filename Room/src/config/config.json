@@ -1,0 +1,4 @@
+{
+    "dburl":"mongodb+srv://admin:Admin123@hotelbooking.5jub2ss.mongodb.net/booking?retryWrites=true&w=majority",
+    "port":3001
+}
